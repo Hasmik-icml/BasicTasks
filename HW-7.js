@@ -1,4 +1,5 @@
- let arr = [];
+//գրել ֆունկցիա, որը կկատարի queue -ի դեր
+let arr = [];
 function queue(myArr, action, elem){
     if (elem === 'undefined' || action === 'get'){
       if(myArr.length === 0){
