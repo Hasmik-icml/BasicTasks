@@ -1,4 +1,5 @@
 # BasicTasks
+
 1․ Calculate the sum of the diagonals․
 example 
   1 2 3
