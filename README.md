@@ -16,12 +16,12 @@ Answer (1+5+9) + (3+5+7)
  
 #4. Swap 2 numbers without 3rd variable.
 
-5. Write a function that searches for the required element using binary search algorithm.
+#5. Write a function that searches for the required element using binary search algorithm.
 
-6. Write a function that will act as a stack.
+#6. Write a function that will act as a stack.
 
-7. Write a function that will act as a queue.
+#7. Write a function that will act as a queue.
 
-8. Find the index of the 2nd largest value of the array.
+#8. Find the index of the 2nd largest value of the array.
 
-9. Print the Fibonacci numbers in the range of [1-100].
+#9. Print the Fibonacci numbers in the range of [1-100].
