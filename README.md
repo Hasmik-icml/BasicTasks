@@ -1,11 +1,13 @@
 # BasicTasks
 
-1․ Calculate the sum of the diagonals․
+ 1․ Calculate the sum of the diagonals․
 
 example 
 
   1 2 3
+  
   4 5 6
+  
   7 8 9
   
 Answer (1+5+9) + (3+5+7)
