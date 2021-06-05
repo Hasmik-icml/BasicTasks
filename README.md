@@ -1,6 +1,4 @@
-
-
- 1․ Calculate the sum of the diagonals․
+ #1․ Calculate the sum of the diagonals․
 
 example 
 
@@ -12,11 +10,11 @@ example
   
 Answer (1+5+9) + (3+5+7)
 
-2. Write a function that will return the sorted array.
+#2. Write a function that will return the sorted array.
 
-3. Write a function that will return the index of the element searched in the array.
+#3. Write a function that will return the index of the element searched in the array.
  
-4. Swap 2 numbers without 3rd variable.
+#4. Swap 2 numbers without 3rd variable.
 
 5. Write a function that searches for the required element using binary search algorithm.
 
